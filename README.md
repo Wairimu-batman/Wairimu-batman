@@ -1,6 +1,6 @@
 # Wairimu-Batman
 
-Cybersecurity Student | Aspiring Bug Bounty Hunter | Python Developer
+Cybersecurity Student | Aspiring Bug Bounty Hunter | Python Developer | Reverse Engineering enthusiast 
 
 I am a cybersecurity enthusiast based in Kenya, focused on offensive security, network analysis, reverse engineering and web application penetration testing. I believe the best way to defend a system is to understand how to break it.
 
@@ -21,5 +21,4 @@ I am a cybersecurity enthusiast based in Kenya, focused on offensive security, n
 - Hunting for my first Bug Bounty.
 
 ## Connect with Me
-- HackerOne / Bugcrowd: [Your Profile Link]
-- Medium / Dev.to: [Link to your blog posts]
+- HackerOne / Bugcrowd
